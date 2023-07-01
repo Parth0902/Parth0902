@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth0902
-- 👀 I’m interested in web developmrnt as well as in block chain developmrnt 
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in web developmrnt as well as in Game developmrnt 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
